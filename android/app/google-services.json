@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961177598138",
+    "firebase_url": "https://stanzanator-db.firebaseio.com",
+    "project_id": "stanzanator-db",
+    "storage_bucket": "stanzanator-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961177598138:android:28c4edd46e55440284aa83",
+        "android_client_info": {
+          "package_name": "com.jthornburg.stanzanator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961177598138-q6opdtqfvkblhga306fpkl43uu6imghh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVLdeN5ue7E00NQKGeQC62JHAXCZhszo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961177598138-q6opdtqfvkblhga306fpkl43uu6imghh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961177598138-e3gi5mm74fm5qum87duivkl86ambna53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jthornburg.stanzanator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

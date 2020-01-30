@@ -1,4 +1,4 @@
-package com.example.stanzanator
+package com.jthornburg.stanzanator
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
